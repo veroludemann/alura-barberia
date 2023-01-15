@@ -32,7 +32,7 @@ em strong{
     font-style: italic;
 }
 
-ul{
+.listaDif{
     display: inline-block;
     vertical-align: top;
     width: 20%;
